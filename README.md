@@ -9,7 +9,7 @@ puis de calculer et d'afficher la prime d'assurance correspondante à l'aide d'u
 Le code source du projet VBA est accessible de deux manières :
 
 1. **Fichier Excel (.xlsm)**  
-   Vous pouvez télécharger le fichier `CalculateurPrimeAssurance.xlsm` et l’ouvrir dans Microsoft Excel. Pour accéder au code, appuyez sur `Alt + F11` pour ouvrir l'éditeur VBA. N'oubliez pas d'activer les macros si nécessaire.
+   Vous pouvez télécharger le fichier `CalculateurPrimeAssurance.xlsm` et l’ouvrir dans Microsoft Excel. Pour accéder au code, appuyez sur `Alt + F11` pour ouvrir l'éditeur VBA. N'oubliez pas d'activer les macros.
 
 2. **Modules exportés**  
    Le dossier `src/` contient les modules et UserForms exportés au format texte (.bas, .frm, .frx). Vous pouvez ouvrir ces fichiers avec un éditeur de texte pour consulter le code et suivre l’évolution du projet.
