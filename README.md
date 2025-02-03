@@ -4,6 +4,17 @@ Ce projet est un outil simplifié de calcul de primes d'assurance développé en
 L'outil permet à l'utilisateur de saisir son prénom, son nom, son âge et le nombre de sinistres,  
 puis de calculer et d'afficher la prime d'assurance correspondante à l'aide d'un UserForm.
 
+## Accès au code source
+
+Le code source du projet VBA est accessible de deux manières :
+
+1. **Fichier Excel (.xlsm)**  
+   Vous pouvez télécharger le fichier `CalculateurPrimeAssurance.xlsm` et l’ouvrir dans Microsoft Excel. Pour accéder au code, appuyez sur `Alt + F11` pour ouvrir l'éditeur VBA. N'oubliez pas d'activer les macros si nécessaire.
+
+2. **Modules exportés**  
+   Le dossier `src/` contient les modules et UserForms exportés au format texte (.bas, .frm, .frx). Vous pouvez ouvrir ces fichiers avec un éditeur de texte pour consulter le code et suivre l’évolution du projet.
+
+
 ## Fonctionnalités
 
 - **Saisie des informations personnelles :**  
